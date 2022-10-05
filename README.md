@@ -9,9 +9,9 @@
 ## Blog, Full Stack, feito em React.JS, MySQL
 
 <div align="center">
-    <img src="./print.PNG" alt="daily.dev" height="150">
-    <img src="./print1.PNG" alt="daily.dev" height="150">
-    <img src="./print2.PNG" alt="daily.dev" height="150">
+    <img src="./print.PNG" alt="daily.dev" height="250">
+    <img src="./print1.PNG" alt="daily.dev" height="250">
+    <img src="./print2.PNG" alt="daily.dev" height="250">
 </div>
 
 
